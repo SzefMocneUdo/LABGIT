@@ -7,4 +7,8 @@ public class Customer {
         System.out.printf("2");
     }
 
+    public void fun3(){
+        System.out.printf("2");
+    }
+
 }
