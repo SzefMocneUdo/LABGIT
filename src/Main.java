@@ -15,7 +15,7 @@ public class Main {
         }
     }
     public static void func(){
-        System.out.printf("Commit2");
+        System.out.printf("Commit2fyjdgfghgh");
         System.out.printf("Commit3XD");
     }
 }
